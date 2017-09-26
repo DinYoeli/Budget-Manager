@@ -7,4 +7,4 @@ It allow you to add expense/income records and know the current balance of your 
 You can create multiple accounts and the application is multi-tenant.
 
 
-@ All rights belnog to Din Yoeli, Maor Siso and Daniel Sasson @
+@ All rights belnog to Din Yoeli, Maor Siso, Daniel Sasson @
