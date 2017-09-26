@@ -1,0 +1,7 @@
+1)0.5 pt - for presenting a welcome message that includes the user name on the login page. the implementation of this feature should be using a cookie. https://youtu.be/iaBiwVOkK8w 
+2)0.5 pt - for developing a new JSP tag (with body and/or with attribute\s) by developing a new class (e.g. developing a new JSP tag for presenting a specific todo item).
+3)0.5 pt - for developing a JSP document that uses java beans (using jsp:useBean and jsp:getProperty at the minimum). 
+4)0.5 pt - for developing a web interface that allows the web application administrator to monitor the sessions (creation/destruction) as well as the sessions’ attributes (adding/removing/replacing). 
+username = Adminstrator
+password = 123
+5) 2 pt - for developing a nice user interface using the bootstrap library (www.getbootstrap.com).
