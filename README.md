@@ -1,2 +1,12 @@
-# This is a Budget Manager project
-u can use this manager to help keep ur expenses at check
+# Budget Manager
+
+![][screenshot-detail]
+
+## Description
+
+Budget Manager is a simple web application.
+It allow you to add expense/income records and know the current balance of your account.
+You can create multiple accounts and the application is multi-tenant.
+
+
+@ All rights belnog to Din Yoeli, Maor Siso and Daniel Sasson @
