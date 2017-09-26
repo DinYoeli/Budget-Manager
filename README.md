@@ -1,7 +1,5 @@
 # Budget Manager
 
-![][screenshot-detail]
-
 ## Description
 
 Budget Manager is a simple web application.
